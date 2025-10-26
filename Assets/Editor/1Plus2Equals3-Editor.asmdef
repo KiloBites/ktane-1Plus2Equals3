@@ -1,0 +1,10 @@
+{
+  "name": "1Plus2Equals3-Editor",
+  "references": [
+    "1Plus2Equals3"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
