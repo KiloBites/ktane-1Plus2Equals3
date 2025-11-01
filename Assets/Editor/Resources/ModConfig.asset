@@ -17,7 +17,10 @@ MonoBehaviour:
   description: 'Simple math. Perhaps too simple. We will laugh if you get this wrong.
 
 
-    Solve a simple math problem.'
+    Solve a simple math problem.
+
+
+    Manual by Lumbud84'
   version: 1
   outputFolder: build
   debugBuild: 1

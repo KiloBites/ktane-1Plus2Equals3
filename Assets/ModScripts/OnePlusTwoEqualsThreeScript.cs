@@ -91,7 +91,7 @@ public class OnePlusTwoEqualsThreeScript : MonoBehaviour
 
 
 #pragma warning disable 414
-	private readonly string TwitchHelpMessage = @"!{0} something";
+	private readonly string TwitchHelpMessage = @"!{0} press 1/2/3 [presses either 1, 2, or 3]";
 #pragma warning restore 414
 
 	IEnumerator ProcessTwitchCommand(string command)
